@@ -19,7 +19,7 @@
 			- java里面跨平台性，虚拟机
 			- 只有能够支持js的浏览器，都可以运行
 	
-	* javascript和java的区别（雷锋和雷峰塔）
+	* javascript和java的区别
 		- java是sun公司，现在oracle；js是网景公司
 		- JavaScript 是基于对象的，java是面向对象
 		- java是强类型的语言，js是弱类型的语言
